@@ -17,6 +17,8 @@ Cronometro de produtividade integrado ao sistema operacional Windows que utiliza
 - Alarme sonoro obrigatorio utilizando o efeito sonoro de suspense e agonia do Return by Death (Call of the Witch).
 - Interface em linha de comando otimizada para execucao rapida.
 
+- ## aviso a Musica de re:zero tem CopyRight estao sempre bote os creditos para nao dar Processo
+
 ---
 
 ## Requisitos de Sistema
